@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pandas as pd
-import fitz  # PyMuPDF
 from transformers import pipeline, AutoModelForQuestionAnswering, AutoTokenizer
 
 # Initialize the question-answering model
@@ -10,21 +9,25 @@ model = AutoModelForQuestionAnswering.from_pretrained(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 reader = pipeline("question-answering", model=model, tokenizer=tokenizer)
 
-# Function to read and process multiple PDF files
+# Function to read and process multiple CSV files
 def read_and_process_files(filepaths):
-    texts = []
-    for filepath in filepaths:
-        with fitz.open(filepath) as doc:
-            for page in doc:
-                texts.append(page.get_text())
-    combined_text = ' '.join(texts)
-    return combined_text
+    dataframes = [pd.read_csv(filepath) for filepath in filepaths]
+    combined_df = pd.concat(dataframes, ignore_index=True)
+    return combined_df
 
 # List of file paths (you can add more file paths as needed)
-filepaths = ['Combined_Item_Branch_Report.pdf']
+filepaths = ['Item.csv', 'branches(1).csv']
 
 # Read and combine the data
-context = read_and_process_files(filepaths)
+combined_df = read_and_process_files(filepaths)
+
+# Function to create context from the entire DataFrame
+def create_context(df):
+    context = df.apply(lambda row: ' '.join(row.values.astype(str)), axis=1).str.cat(sep=' ')
+    return context
+
+# Create context for the API
+context = create_context(combined_df)
 
 # Function to get response using the question-answering model
 def get_response(question):
