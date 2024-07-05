@@ -1,0 +1,159 @@
+item_name,item_description,vegetarian,healthy
+Alexandrian Beans,Delicious traditional Egyptian dish made with seasoned fava beans.,1,1
+Beans With Special Mixture,A unique blend of fava beans mixed with a special selection of spices.,1,1
+Beans With Eggs,"Fava beans served with perfectly cooked eggs, seasoned with herbs.",,1
+Omlette,Fluffy omelette made with fresh eggs and a mix of vegetables.,,1
+Eggs With Pastrami,Scrambled eggs mixed with savory pastrami slices.,,1
+Eggs With Sausage,"Eggs cooked with flavorful sausages, served with herbs.",,1
+Flafel,Crispy and golden falafel balls made from ground chickpeas and herbs.,1,
+White Cheese With Tomatoes,Fresh white cheese paired with juicy tomato slices.,1,1
+Four Season Salads,A healthy mix of seasonal vegetables and greens.,1,1
+Greek Salad,"A traditional Greek salad with fresh tomatoes, cucumbers, olives, and feta cheese.",1,1
+Chicken Caesar Salad,"A classic Caesar salad with grilled chicken, romaine lettuce, and Caesar dressing.",,1
+Koshari Aleskndrani,"A classic Egyptian dish with rice, lentils, and pasta topped with crispy onions.",1,1
+Tahina,A creamy tahini sauce made from ground sesame seeds.,1,1
+Yogurt,Plain yogurt perfect as a side dish or for mixing with fruit.,,1
+Coleslaw,Crunchy cabbage and carrot slaw dressed in a tangy sauce.,,1
+Pomme Frites,Crispy French fries seasoned with salt.,1,
+Cheese Garlic Bread,Toasted bread topped with garlic butter and melted cheese.,,1
+Chicken Nuggets,Tender chicken pieces breaded and fried until golden.,,
+Chicken Cream Soup,A rich and creamy soup made with tender chicken and vegetables.,,
+Mushroom Cream Soup,Smooth and creamy soup made with fresh mushrooms and herbs.,,
+Seafood Cream Soup,A luxurious soup made with a variety of seafood in a creamy broth.,,
+Lentil Soup,Hearty and healthy soup made with lentils and spices.,1,1
+Shrimp Soup,A flavorful soup made with tender shrimp and aromatic spices.,,1
+Bread,"Freshly baked bread, perfect for any meal.",1,1
+Rice,"Steamed white rice, a staple side dish.",1,1
+Pasta,Simple pasta served with a light sauce.,1,1
+Sauteed Vegetables,A mix of fresh vegetables sautéed to perfection.,1,1
+Pickles,Assorted pickled vegetables for a tangy bite.,1,
+Crisper Chicken,Crispy fried chicken with a golden crust.,,
+Chicken Ala Gril,Grilled chicken seasoned with herbs and spices.,,1
+Shish Tawook,Marinated chicken skewers grilled to perfection.,,1
+Chicken Musahab,Grilled boneless chicken marinated with spices.,,1
+Grilled Kofta,Spiced ground beef skewers grilled on an open flame.,,1
+Grilled Beef Fillet,Tender beef fillet grilled to your liking.,,1
+American Steak,"Juicy steak cooked to perfection, served with a side.",,1
+Beef Stroganoff,Creamy beef stroganoff served with mushrooms and onions.,,1
+Jambo Shrimp,Jumbo shrimp fried until golden and crispy.,,
+Grilled Shrimp,Succulent shrimp grilled with herbs and spices.,,1
+Grilled Fish Fillet,Fish fillet grilled to perfection with a hint of lemon.,,1
+Gilt Head Bream Grilled,Whole gilt-head bream fish grilled with herbs.,,1
+Grilled Mullet Fish,Grilled mullet fish served with a side of vegetables.,,1
+Beef Liver Iskandrani,Sautéed beef liver with a blend of spices.,,
+Grilled Chicken Herbs,Chicken grilled with a mix of fresh herbs.,,
+Golden Shrimp,Golden fried shrimp served with a dipping sauce.,,
+Fried Calamari,Crispy fried calamari rings served with a lemon wedge.,,
+Julian Steak Mushroom,Steak sandwich with sautéed mushrooms and onions.,,
+Kofta Sandwich,Grilled kofta served in a sandwich with fresh vegetables.,,1
+Philadelphia Cheese Steak,Classic cheese steak sandwich with onions and peppers.,,
+Negresco,Baked pasta dish with chicken and creamy sauce.,,
+Spaghetti Seafood,Spaghetti with a variety of seafood in a light sauce.,,
+Quattro Formaggi Pasta,Pasta with a rich four-cheese sauce.,,
+Penna Arrabiata,Penne pasta in a spicy arrabiata sauce.,,1
+Margarita,Classic margarita pizza with fresh tomatoes and mozzarella.,,
+Salami,Pizza topped with spicy salami and cheese.,,
+Quattro Formaggi Pizza,Pizza with four different types of cheese.,,
+Shrimps Pizza,Pizza topped with succulent shrimp and herbs.,,
+Super Supreme,Pizza loaded with a variety of toppings including meat and vegetables.,,
+Fruit De Marie,Seafood pizza with a mix of fresh seafood toppings.,,
+Wave Pizza,Specialty pizza with a mix of unique toppings.,,
+Cappuccino,A classic cappuccino made with rich espresso and steamed milk.,,
+Flavored Cappuccino,A cappuccino with a hint of flavored syrup.,,
+Cappuccino Wave,A frothy cappuccino with a unique twist.,,
+Mocha,"A blend of espresso, chocolate, and steamed milk.",,
+White Mocha,A creamy mocha made with white chocolate.,,
+Latte,Smooth espresso with steamed milk.,,
+Flavored Latte,Latte with a hint of flavored syrup.,,
+Nutella Latte,"A latte made with Nutella for a rich, chocolatey taste.",,
+Lotus Latte,A latte infused with the flavor of Lotus biscuits.,,
+Hot Chocolate,Rich and creamy hot chocolate.,,
+Hot Chocolate Nutella,Hot chocolate made with Nutella for extra richness.,,
+Anise,A soothing hot drink made from anise seeds.,1,
+Mint,A refreshing hot drink made with fresh mint leaves.,1,
+Hibiscus,A tangy hot drink made from hibiscus flowers.,1,
+Cinnamon Ginger,A warming hot drink made with cinnamon and ginger.,1,
+English Tea,Classic English tea served hot.,1,
+Green Tea,A healthy hot drink made from green tea leaves.,1,1
+Espresso Macchiato,Espresso topped with a dollop of steamed milk.,1,1
+Espresso,A strong and rich shot of coffee.,1,1
+Espresso Corto,"A short, intense shot of espresso.",1,1
+Espresso Avocado,Espresso with a unique twist of avocado.,1,1
+Nescafe,Instant coffee made from Nescafe.,1,
+Flavored Nescafe,Nescafe coffee with added flavors.,1,1
+Turkish Coffee Special,Traditional Turkish coffee with a rich flavor.,1,1
+Turkish Coffee Cardamom,Turkish coffee flavored with cardamom.,1,1
+French Coffee,A strong and rich French-style coffee.,1,1
+Flavored French Coffee,French coffee with a hint of flavor.,1,1
+Orchid,A creamy hot drink made from orchid root.,,1
+Orchid Blueberry,Orchid drink with a hint of blueberry.,,1
+Orchid Lotus,Orchid drink with Lotus biscuit flavor.,,1
+Orchid Oreo,Orchid drink with Oreo cookie flavor.,,1
+Orchid Nutella,"Orchid drink with Nutella for a rich, chocolatey taste.",,1
+Homos El Sham,A traditional hot drink made with roasted chickpeas.,1,1
+Strawberry,Freshly squeezed strawberry juice.,1,1
+Mango,Freshly squeezed mango juice.,1,1
+Banana,Freshly squeezed banana juice.,1,1
+Apple,Freshly squeezed apple juice.,1,1
+Guava,Freshly squeezed guava juice.,1,1
+Kiwi,Freshly squeezed kiwi juice.,1,1
+Dates,Freshly squeezed dates juice.,1,1
+Lemon,Freshly squeezed lemon juice.,1,1
+Watermelon,Freshly squeezed watermelon juice.,1,1
+Smoothie,A healthy smoothie made with fresh fruits.,1,1
+Flavor,Additional flavor to complement your drink.,1,1
+Nutella,Nutella to add a rich chocolate flavor to your drink.,1,1
+Honey,Honey to sweeten your drink naturally.,1,1
+Nuts,A variety of nuts to add crunch to your drink.,1,1
+Milk,Fresh milk to complement your drink.,,1
+Lotus,Lotus biscuits to add a unique flavor to your drink.,1,1
+Pistachio,Pistachios to add a nutty flavor to your drink.,1,1
+Rice Pudding,A creamy rice pudding made with milk and sugar.,,
+Rice Pudding With Nuts,Rice pudding topped with a variety of nuts.,,
+Rice Pudding Pistachio,Rice pudding topped with crunchy pistachios.,,
+Umm Ali,"A traditional Egyptian dessert made with pastry, milk, and nuts.",,
+Umm Ali With Nuts,Umm Ali topped with a variety of nuts.,,
+Umm Ali Nutella,"Umm Ali made with Nutella for a rich, chocolatey taste.",,
+Umm Ali Lotus,Umm Ali topped with Lotus biscuits.,,
+Umm Ali Pistachio,Umm Ali topped with crunchy pistachios.,,
+Umm Ali White Chocolate,Umm Ali made with white chocolate for a creamy taste.,,
+Cream Caramel,A smooth and creamy caramel dessert.,,
+Cream Caramel With Fruits,Cream caramel topped with fresh fruits.,,
+Ice Cream,A variety of ice cream flavors.,,
+Ice Cream With Fruits,Ice cream topped with fresh fruits.,,
+Ice Cream With Nuts,Ice cream topped with a variety of nuts.,,
+Milk Shake,A creamy milkshake made with fresh milk and ice cream.,,
+Milk Oreo,Milkshake made with Oreo cookies.,,
+Milk Nutella,"Milkshake made with Nutella for a rich, chocolatey taste.",,
+Milk Flutes,Milkshake with added crunchy flutes.,,
+Milk Molten Cake,Milkshake with a molten cake for a decadent treat.,,
+Milk Cheese Cake,Milkshake made with a hint of cheesecake flavor.,,
+Milk Lotus,Milkshake infused with Lotus biscuits.,,
+Honey Yogurt,Yogurt sweetened with honey.,,
+Fruits Yogurt,Yogurt mixed with fresh fruits.,,
+Peach Yogurt,Yogurt mixed with fresh peaches.,,
+Banana Yogurt,Yogurt mixed with fresh bananas.,,
+Mango Yogurt,Yogurt mixed with fresh mangoes.,,
+Fantasia,A fruity cocktail with a mix of fresh fruits.,1,
+Ocean Beach,A refreshing cocktail inspired by the ocean.,1,
+Pina Colada,A tropical cocktail made with pineapple and coconut.,1,
+Angel Dust,A magical cocktail with a mix of exotic flavors.,1,
+Tropical,A cocktail made with a blend of tropical fruits.,1,
+Remo Diet,A diet-friendly cocktail made with fresh ingredients.,1,1
+Avocado Dates,A healthy cocktail made with avocado and dates.,1,1
+Bavana Bavana,A cocktail with a mix of bananas and vanilla.,1,1
+Cheese Cake Toping,A delicious topping made with cheesecake.,,
+White Chocolate Cheese Cake,A cheesecake made with white chocolate.,,
+Lotus Cheese Cake,A cheesecake topped with Lotus biscuits.,,
+Ice Molten Cake,A molten cake served with ice cream.,,
+Molten Cake Nutella,"A molten cake made with Nutella for a rich, chocolatey taste.",,
+Mini Cake Lotus,A mini cake topped with Lotus biscuits.,,
+Nutella Pancake,Pancakes served with Nutella for a sweet treat.,,
+Lotus Pancake,Pancakes topped with Lotus biscuits.,,
+Fruits Pancake,Pancakes topped with a mix of fresh fruits.,,
+White Chocolate Pancake,Pancakes made with white chocolate for a creamy taste.,,
+Beans,"Traditional Egyptian dish made with seasoned fava beans, also known as ""Foul Medames.""",1,1
+elsmnia,A traditional Egyptian breakfast dish made with mixed fava beans.,,
+Port Said Baklawis,A seafood dish made with mixed fish and spices.,,
+Shrimp kofta,"Ground shrimp mixed with spices, shaped into kofta, and grilled to perfection.",,
+Cassata,An Italian dessert made with layers of ice cream and candied fruit.,,
